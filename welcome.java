@@ -1,5 +1,6 @@
-public class welcome
-  public static void main (String[]arg)
-    {
-    system.printout("welcome")
-      }
+public class Welcom{
+  public static vois main (String[] args)
+  {
+System.out.println("welcome");
+
+  }}
