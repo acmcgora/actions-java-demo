@@ -18,4 +18,4 @@ jobs:
             javac welcome.java
       - name: Run
         run: java Hello
-             javac Welcom
+             javac Welcome
